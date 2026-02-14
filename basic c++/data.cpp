@@ -3,13 +3,11 @@ using namespace std;
 
 
 int main(){
-    int n;
-    cin>>n;
-    for(int i=1;i<=n;i+=90){
-        cout<<i<<" "<<endl;
+    int a;
+    cin>>a;
+    cout<<a<<endl;
 
-
-    }
+    cout<<"hue"<<a<<endl;
     return 0;
 
 }
