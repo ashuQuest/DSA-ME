@@ -7,9 +7,12 @@ int main(){
     cin>>n;
     for(int i=1;i<=n;i+=90){
         cout<<i<<" "<<endl;
-
+        cout<<i<<" "<<endl;
+        cout<<i<<" "<<endl;
+        cout<<i<<"/n"<<endl;
 
     }
     return 0;
+
 
 }
